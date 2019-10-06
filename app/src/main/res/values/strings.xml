@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CRM</string>
+    <string name="api_url">http://api.managedandmore.com/api</string>
+    <string name="toast_missed_data">Please fill empty filed.</string>
+    <string name="toast_login_succ">Login success.</string>
+    <string name="toast_pass_error">Username or password are not correct.</string>
+    <string name="toast_conn">Sorry there is no internet connection, Connect to internet and try again.</string>
+</resources>

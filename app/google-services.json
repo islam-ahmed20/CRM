@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "757963995501",
+    "firebase_url": "https://acrm-ed6eb.firebaseio.com",
+    "project_id": "acrm-ed6eb",
+    "storage_bucket": "acrm-ed6eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757963995501:android:663b3ff09645d42f7d0264",
+        "android_client_info": {
+          "package_name": "net.systemsstars.crm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757963995501-3c3d8ftuldk9r5q1qtk0ifudflo29fkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQri8SYRGveheaxjvJZRRvW9V5Jbz75H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757963995501-3c3d8ftuldk9r5q1qtk0ifudflo29fkm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
